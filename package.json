@@ -1,0 +1,28 @@
+{
+  "name": "json-to-csv-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "m.test *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-fei/json-to-csv-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-fei/json-to-csv-kata/issues"
+  },
+  "homepage": "https://github.com/christian-fei/json-to-csv-kata#readme",
+  "standard": {
+    "globals": [
+      "test"
+    ]
+  },
+  "devDependencies": {
+    "m.test": "0.0.57"
+  }
+}
